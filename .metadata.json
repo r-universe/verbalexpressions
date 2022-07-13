@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "RVerbalExpressions",
+    "oncran": true
+  }
+]
