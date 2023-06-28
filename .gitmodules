@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RVerbalExpressions"]
 	path = RVerbalExpressions
 	url = https://github.com/verbalexpressions/rverbalexpressions
-	shallow = true
-	registered = true
